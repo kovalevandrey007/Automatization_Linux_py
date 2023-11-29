@@ -1,0 +1,12 @@
+NAME="Green Linux"
+VERSION="21.2 (Victoria)"
+ID=linuxmint
+ID_LIKE="ubuntu debian"
+PRETTY_NAME="Green Linux 21.2.0 Pro (Cubic 2023-06-14 22:01)"
+VERSION_ID="21"
+HOME_URL="https://greenlinux.ru/"
+SUPPORT_URL="https://forum.linuxmint.su/"
+BUG_REPORT_URL="http://linuxmint-troubleshooting-guide.readthedocs.io/ru/latest/"
+PRIVACY_POLICY_URL="https://greenlinux.ru/"
+VERSION_CODENAME=victoria
+UBUNTU_CODENAME=jammy
